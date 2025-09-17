@@ -14,5 +14,5 @@
 - Markdown, Excel, Google Docs
 ## Contact
 If you'd like to collaborate or ask about a specific deliverable:
--📧 kayasahthompson@gmail.com
--🔗 https://www.linkedin.com/in/kayasah-thompson-706275186/
+- kayasahthompson@gmail.com
+- https://www.linkedin.com/in/kayasah-thompson-706275186/
