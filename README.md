@@ -1,11 +1,11 @@
 # Aether Edge – GRC Portfolio
-### Managed by [Your Name] | CompTIA Security+ Certified
+### Managed by Kayasah Thompson| CompTIA Security+ Certified
 
-Welcome! I am a Cybersecurity Management and Policy student at the University of Maryland Global Campus (Graduating Summer 2026). This portfolio showcases my ability to bridge the gap between technical security controls and business risk management through standardized GRC deliverables.
+Welcome! I am a Cybersecurity Management and Policy student at the University of Maryland Global Campus. This portfolio showcases my ability to bridge the gap between technical security controls and business risk management through standardized GRC deliverables.
 
 ---
 
-## 🎖️ Core Credentials
+## Core Credentials
 * **CompTIA Security+ Certified** (Verified March 2026)
 * **CompTIA Network+ Certified**
 * **Interim Security Clearance**
@@ -13,7 +13,7 @@ Welcome! I am a Cybersecurity Management and Policy student at the University of
 
 ---
 
-## 📂 Featured GRC Projects
+## Featured GRC Projects
 
 ### 1. [Quantitative Risk Register: AI Fintech Startup](./Project-Risk-Register/)
 * **The Scenario:** Developed a risk management plan for a high-growth fintech firm utilizing AI.
@@ -31,7 +31,7 @@ Welcome! I am a Cybersecurity Management and Policy student at the University of
 
 ---
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 * **Frameworks:** NIST CSF, NIST SP 800-53, ISO 27001, GDPR.
 * **Risk Analysis:** Quantitative (ALE/SLE/ARO) and Qualitative assessment.
 * **Documentation:** Policy drafting, Standard Operating Procedures (SOPs), Executive Summaries.
@@ -39,7 +39,7 @@ Welcome! I am a Cybersecurity Management and Policy student at the University of
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 I am actively seeking GRC Analyst and Information Security Officer (ISSO) roles.
 
 📧 [kayasahthompson@gmail.com](mailto:kayasahthompson@gmail.com)
