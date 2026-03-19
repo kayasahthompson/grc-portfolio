@@ -10,9 +10,6 @@ This report identifies and prioritizes critical security risks for a cloud-nativ
 2. **RS-1003: Misconfigured Cloud Storage (Score: 10):** High-impact data exposure risk[cite: 11].
 3. **RS-1002: AI Model Bias (Score: 8):** Moderate risk involving algorithmic fairness[cite: 13].
 
-## Risk Heat Map
-![Risk Heat Map](./image_d432c0.png)
-*Figure 1: Visual distribution of identified risks.*
 
 ## Risk Register
 | Risk ID | Risk Title | Impact Description | Likelihood | Impact | Severity | Status |
