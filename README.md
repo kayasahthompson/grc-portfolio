@@ -1,15 +1,15 @@
 # Aether Edge – GRC Portfolio
-### Managed by Kayasah Thompson| CompTIA Security+ Certified
+### Managed by Kayasah Thompson |IT Risk Management Professional 
 
 Welcome! I am a Cybersecurity Management and Policy student at the University of Maryland Global Campus. This portfolio showcases my ability to bridge the gap between technical security controls and business risk management through standardized GRC deliverables.
 
 ---
 
 ## Core Credentials
-* **CompTIA Security+ Certified** (Verified March 2026)
+* **CompTIA Security+ Certified** 
 * **CompTIA Network+ Certified**
 * **Interim Security Clearance**
-* **B.S. Cybersecurity Management & Policy** (UMGC, Expected Summer 2026)
+* **B.S. Cybersecurity Management & Policy** (Recent Graduate)
 
 ---
 
