@@ -1,5 +1,5 @@
 # Aether Edge – GRC Portfolio
-### Managed by Kayasah Thompson |IT Risk Management Professional 
+### Managed by Kayasah Thompson|IT Risk Management Professional 
 
 Welcome! I am a Cybersecurity Management and Policy student at the University of Maryland Global Campus. This portfolio showcases my ability to bridge the gap between technical security controls and business risk management through standardized GRC deliverables.
 
