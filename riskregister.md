@@ -3,16 +3,16 @@
 **Status:** Final Draft  
 
 ## Executive Summary
-[cite_start]This report identifies and prioritizes critical security risks for a cloud-native fintech environment[cite: 6]. [cite_start]By quantifying likelihood and impact, we provide recommendations to protect over $1.5M in PII assets[cite: 7].
+This report identifies and prioritizes critical security risks for a cloud-native fintech environment. By quantifying likelihood and impact, we provide recommendations to protect over $1.5M in PII assets.
 
 ### Top 3 Risk Findings
-1. [cite_start]**RS-1004: 3rd Party API Dependency (Score: 12):** High likelihood of service disruptions[cite: 9].
-2. [cite_start]**RS-1003: Misconfigured Cloud Storage (Score: 10):** High-impact data exposure risk[cite: 11].
-3. [cite_start]**RS-1002: AI Model Bias (Score: 8):** Moderate risk involving algorithmic fairness[cite: 13].
+1. **RS-1004: 3rd Party API Dependency (Score: 12):** High likelihood of service disruptions[cite: 9].
+2. **RS-1003: Misconfigured Cloud Storage (Score: 10):** High-impact data exposure risk[cite: 11].
+3. **RS-1002: AI Model Bias (Score: 8):** Moderate risk involving algorithmic fairness[cite: 13].
 
 ## Risk Heat Map
 ![Risk Heat Map](./image_d432c0.png)
-[cite_start]*Figure 1: Visual distribution of identified risks[cite: 18].*
+*Figure 1: Visual distribution of identified risks.*
 
 ## Risk Register
 | Risk ID | Risk Title | Impact Description | Likelihood | Impact | Severity | Status |
@@ -23,4 +23,4 @@
 | RS-1001 | Vendor Risk | Data exposure | 1 | 4 | 4 | In Progress |
 | RS-1005 | Data Privacy | Compliance concerns | 3 | 2 | 6 | In Progress |
 
-> [cite_start]**Note:** Detailed mitigations and owners are documented in the full project version[cite: 19, 20].
+> **Note:** Detailed mitigations and owners are documented in the full project version[cite: 19, 20].
