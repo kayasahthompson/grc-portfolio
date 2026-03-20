@@ -19,7 +19,7 @@ This portfolio documents a comprehensive security lifecycle for **Aether Edge**,
 * **Scenario:** Project "Broken Bridge" (API Supply Chain Failure)
 * **Outcome:** Developed an incident response framework and executive communication script to mitigate reputational and operational damage during a vendor outage.
 
-### 3. [NIST 800-53 Control Mapping](./03_NIST_800-53_Control_Mapping)
+### 3. [NIST 800-53 Control Mapping](./NIST_800_53.md)
 * **Compliance:** NIST SP 800-53 Rev. 5
 * **Implementation:** Mapped high-priority risks to technical controls (AC-3, CM-6, SA-9), ensuring audit readiness and regulatory alignment.
 
