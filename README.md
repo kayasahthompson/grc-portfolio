@@ -5,10 +5,10 @@
 
 ---
 
-## 🎯 Professional Objective
+## Professional Objective
 A result-driven GRC professional leveraging a background in Cybersecurity Management and Policy from UMGC. Proven ability to translate complex regulatory requirements into actionable security controls. Specialized in protecting high-value assets ($1.5M+ PII) through rigorous risk assessment and technical hardening.
 
-## 🛠️ Featured Projects (Aether Edge AI Fintech)
+## Featured Projects (Aether Edge AI Fintech)
 This portfolio documents a comprehensive security lifecycle for **Aether Edge**, a cloud-native fintech startup.
 
 ### 1. [Risk Assessment & Register](./01_Fintech_Risk_Assessment)
@@ -32,7 +32,7 @@ This portfolio documents a comprehensive security lifecycle for **Aether Edge**,
 
 ---
 
-## 🎓 Education & Certifications
+## Education & Certifications
 * **B.S. Cybersecurity Management and Policy** | University of Maryland Global Campus (UMGC) 
 * **CompTIA Security+** | Certified 
 * **CompTIA Network+** | Certified
