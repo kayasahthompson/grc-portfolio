@@ -11,23 +11,23 @@ A result-driven GRC professional leveraging a background in Cybersecurity Manage
 ## Featured Projects (Aether Edge AI Fintech)
 This portfolio documents a comprehensive security lifecycle for **Aether Edge**, a cloud-native fintech startup.
 
-### 1. [Risk Assessment & Register](./Risk%20Management)
+### 1. [Risk Assessment & Register](.01_Risk_Management)
 * **Methodology:** NIST SP 800-30 Rev. 1
 * **Impact:** Identified and quantified 5 critical risks, prioritizing 3rd-party API dependencies and cloud misconfigurations to protect $1.5M in PII.
 
-### 2. [Tabletop Exercise (TTX)](./02_Tabletop_Exercise_API_Failure)
+### 2. [Tabletop Exercise (TTX)](./02_Tabletop_Exercise)
 * **Scenario:** Project "Broken Bridge" (API Supply Chain Failure)
 * **Outcome:** Developed an incident response framework and executive communication script to mitigate reputational and operational damage during a vendor outage.
 
-### 3. [NIST 800-53 Control Mapping](./NIST_800_53.md)
+### 3. [NIST 800-53 Control Mapping](./03_Control_Mapping)
 * **Compliance:** NIST SP 800-53 Rev. 5
 * **Implementation:** Mapped high-priority risks to technical controls (AC-3, CM-6, SA-9), ensuring audit readiness and regulatory alignment.
 
-### 4. [STIG Hardening Checklist](./05_STIG_Hardening_Checklist)
+### 4. [STIG Hardening Checklist](./04_STIG_Hardening)
 * **Standard:** DISA STIG (RHEL 8 / Cloud)
 * **Technical Fixes:** Executed CAT I and CAT II hardening measures, including SSH lockdown and PAM complexity requirements, to meet federal "Audit Ready" standards.
 
-### 5. [Acceptable Use Policy (AUP)](./04_Acceptable_Use_Policy_AUP)
+### 5. [Acceptable Use Policy (AUP)](./05_AUP)
 * **Governance:** Authored a 1.0 version corporate policy governing employee behavior, AI ethics, and remote work security protocols.
 
 ---
