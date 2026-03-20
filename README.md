@@ -11,7 +11,7 @@ A result-driven GRC professional leveraging a background in Cybersecurity Manage
 ## Featured Projects (Aether Edge AI Fintech)
 This portfolio documents a comprehensive security lifecycle for **Aether Edge**, a cloud-native fintech startup.
 
-### 1. [Risk Assessment & Register](./01_Fintech_Risk_Assessment)
+### 1. [Risk Assessment & Register](./Risk Management)
 * **Methodology:** NIST SP 800-30 Rev. 1
 * **Impact:** Identified and quantified 5 critical risks, prioritizing 3rd-party API dependencies and cloud misconfigurations to protect $1.5M in PII.
 
